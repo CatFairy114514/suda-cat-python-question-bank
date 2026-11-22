@@ -4,6 +4,7 @@
 
 ## 怎么用
 
+- **打开网页看题**：在 GitHub Pages 按章节浏览题目，展开参考答案和解析。可直接打开并收藏。[GitHub Pages 题库](https://catfairy114514.github.io/suda-cat-python-question-bank/)
 - **在线刷题**：在网页上按章节快速刷题、组卷模拟考试，或复习错题。[在线学习题库](https://study.duck91.com/)
 - **在 GitHub 看题**：点下方章节，搜索题号或关键词，展开每题下方的「答案与解析」查看参考答案。
 - **留一份离线版**：下载 HTML 文件，保存到电脑后用浏览器打开。即使原网站以后停更或无法访问，也能在本地查看全部归档题目和参考答案。[下载离线题库 HTML](https://github.com/CatFairy114514/suda-cat-python-question-bank/releases/download/v2026.11.22/index.html)
